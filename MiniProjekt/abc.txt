@@ -1,0 +1,22 @@
+Costumer name: dasdad
+Adress: dawdawda
+Cpr: 1231231423
+Tlf: 2343242
+Email: fmsdkfjsdfs
+
+Event name: abc
+Description: aaksfkafak
+Type: lfkafks
+Date: 23234fsf
+Facilitator: wajid
+Duration: 123213
+Total Price: 6.16065E7DKK
+
+Event name: dadad
+Description: aadad
+Type: adsasd
+Date: dadas
+Facilitator: aldkasld
+Duration: 454353
+Total Price: 2.271765E8DKK
+

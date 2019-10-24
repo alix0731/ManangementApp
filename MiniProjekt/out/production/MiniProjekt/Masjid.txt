@@ -1,0 +1,14 @@
+Costumer name: ALi 
+Adress: Ågården
+Cpr: 345353
+Tlf: 5345345
+Email: rgffd@ggf.dk
+
+Event name: Rejse
+Description: Dubai
+Type: Udflugt
+Date: 23/09-19
+Facilitator: Peter
+Duration: 7
+Total Price: 3500.0DKK
+
