@@ -1,0 +1,14 @@
+Costumer name: Kone
+Adress: gdrgdf
+Cpr: 4354355
+Tlf: 534534
+Email: ali@f.dk
+
+Event name: rwr
+Description: fgsg
+Type: wfre
+Date: greg
+Facilitator: grger
+Duration: 2
+Total Price: 1000.0DKK
+

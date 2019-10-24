@@ -1,0 +1,22 @@
+Costumer name: James
+Adress: gergerg
+Cpr: 453453
+Tlf: 34534543
+Email: dfbdfb@hotmail.com
+
+Event name: Rejse
+Description: lille tur 
+Type: Rejse
+Date: 34/02-17
+Facilitator: Kone
+Duration: 7
+Total Price: 3500.0DKK
+
+Event name: Bil tur
+Description: fra NY til LA
+Type: udflugt
+Date: 27/08-19
+Facilitator: Bo
+Duration: 4
+Total Price: 2000.0DKK
+
